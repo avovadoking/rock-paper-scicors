@@ -1,4 +1,4 @@
-l1 = ["r", "p", "s"]
+l1 = ["r", "p", "s", "R", "P", "S" ]
 import random
 def funchion1():
     print("input r for rock p for papper and s for sizzors")
